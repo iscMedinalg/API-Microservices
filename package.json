@@ -3,6 +3,7 @@
 	"author": "Gustavo Medina Limon",
 	"description": "Managing Packages With NPM",
 	"keywords": ["NPM","freecodecamp","glitch", "github"],
+	"version": "1.0.4",
 	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
