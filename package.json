@@ -1,6 +1,6 @@
 {
-	"author": "Gustavo Medina Limon",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Gustavo Medina Limon",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
