@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Gustavo Medina Limon",
 	"description": "Managing Packages With NPM",
+	"keywords": ["NPM","freecodecamp","glitch", "github"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
